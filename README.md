@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working with a startup (been here for more than a year now )
 - 🌱 I’m currently learning some more cool stuff (you'll find out soon 🌚)
 - 👯 I’m looking to collaborate with anyone who has something fun to work on
-- 📫 How to reach me: [Email:](kachi2505@yahoo.com), [Twitter:](https://twitter.com/callme5t4n5)
+- 📫 How to reach me: [Email](kachi2505@yahoo.com), [Twitter](https://twitter.com/callme5t4n5)
 - ⚡ Fun fact: I run a music talk show with my friends. [Check it out 😉](https://opussessions.netlify.app/)
