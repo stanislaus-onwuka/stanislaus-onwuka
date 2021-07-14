@@ -1,7 +1,5 @@
 ### Hi there 👋
-I am Stanley Onwuka, a frontend web developer and an amateur UI/UX designer. I create ✨ _magic_ ✨ majorly with Javascript(React) and CSS. 
-
-**stanislaus-onwuka/stanislaus-onwuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Stanley Onwuka, a frontend web developer and an amateur UI/UX designer. I create ✨ _magic_ ✨ majorly with Javascript(React) and CSS. I am a big fan of music and professional bread consumer and advocate.
 
 Here are some ideas to get you started:
 
@@ -10,4 +8,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning some more cool stuff (you'll find out soon 🌚)
 - 👯 I’m looking to collaborate with anyone who has something fun to work on
 - 📫 How to reach me: [Email:](kachi2505@yahoo.com), [Twitter:](https://twitter.com/callme5t4n5)
-- ⚡ Fun fact: I am a big fan of music and I run a music talk show. [Check it out 😉](https://opussessions.netlify.app/)
+- ⚡ Fun fact: I run a music talk show with my friends. [Check it out 😉](https://opussessions.netlify.app/)
