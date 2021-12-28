@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Stanley Onwuka, a frontend web developer and an amateur UI/UX designer. I create ✨ _magic_ ✨ majorly with Javascript(React) and CSS. I am a big fan of music and professional bread consumer and advocate.
+I am Stanley Onwuka, a frontend web developer and an amateur UI/UX designer. I create ✨ _magic_ ✨ majorly with Javascript(React) and CSS. I am also a big fan of music.
 
 Here are some ideas to get you started:
 
