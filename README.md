@@ -4,7 +4,7 @@ I am Stanley Onwuka, a frontend web developer and an amateur UI/UX designer. I c
 Here are some ideas to get you started:
 
 - 🧑‍🎓: I am a Computer science student
-- 🔭 I’m currently looking to work for starts ups
+- 🔭 I’m currently working for starts ups
 - 🌱 I’m currently learning some more cool stuff about UI engineering
 - 👯 I’m looking to collaborate with anyone who has something fun to work on
 - 📫 How to reach me: [Email](kachi2505@yahoo.com), [LinkedIn](https://www.linkedin.com/in/stanley-onwuka-804a0218a/), [Twitter](https://twitter.com/callme5t4n5)
