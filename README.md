@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Stanley Onwuka, a frontend web developer and an amateur UI/UX designer. I create ✨ _magic_ ✨ majorly with Javascript(React) and CSS. I am also a big fan of music.
+I am Stanley Onwuka, a frontend web developer and an amateur UI/UX designer. I create ✨ _magic_ ✨ majorly with Javascript frameworks and CSS. I am also an amatuer dj.
 
 Here are some ideas to get you started:
 
@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working for starts ups
 - 🌱 I’m currently learning some more cool stuff about UI engineering and 3D
 - 👯 I’m looking to collaborate with anyone who has something fun to work on
-- 📫 How to reach me: [Email](kachi2505@yahoo.com), [LinkedIn](https://www.linkedin.com/in/stanley-onwuka-804a0218a/), [Twitter](https://twitter.com/callme5t4n5)
+- 📫 How to reach me: [Professional Email](chisomstanleyo@yahoo.com), [Personal Email](kachi2505@yahoo.com), [LinkedIn](https://www.linkedin.com/in/stanley-onwuka-804a0218a/), [Twitter](https://twitter.com/callme5t4n5)
 - ⚡ Fun fact: I run a music talk show with my friends. [Check it out 😉](https://opussessions.netlify.app/)
