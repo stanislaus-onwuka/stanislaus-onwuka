@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Stanley Onwuka, a frontend web developer on the weekdays and a Dj on the weekends. I create ✨ _magic_ ✨ majorly with Javascript frameworks and CSS. I am also play around with Figma sometimes.
+I am Stanley Onwuka, a frontend engineer on the weekdays and a Dj on the weekends. I create ✨ _magic_ ✨ majorly with Javascript frameworks and CSS. I am also play around with Figma sometimes.
 
 Here are some ideas to get you started:
 
