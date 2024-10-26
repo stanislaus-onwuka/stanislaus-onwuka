@@ -1,9 +1,9 @@
 ### Hi there 👋
-I am Stanley Onwuka, a frontend engineer on the weekdays and a Dj on the weekends. I create ✨ _magic_ ✨ majorly with Javascript frameworks and CSS. I am also play around with Figma sometimes.
+I am Stanley Onwuka, a software engineer (frontend) on weekdays and a Dj on weekends. I create ✨ _magic_ ✨ majorly with Javascript frameworks and CSS. I also play around with Figma sometimes.
 
 Here are some ideas to get you started:
 
-- 🧑‍🎓: I am a Computer science undergrad
+- 🧑‍🎓: B.sc Computer Science
 - 🔭 I’m currently working for starts ups like [The NOTI Company](https://thenoticompany.com)
 - 🌱 I’m currently learning some more cool stuff about UI engineering
 - 👯 I’m looking to collaborate with anyone who has something fun to work on
